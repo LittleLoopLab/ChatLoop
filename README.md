@@ -4,6 +4,17 @@
 
 [Watch ChatLoop working on TikTok](https://vm.tiktok.com/ZGdXt9p9A/) · [Download the latest release](https://github.com/LittleLoopLab/ChatLoop/releases/latest)
 
+## Source, safety and usage terms
+
+**Why isn't the source public?** ChatLoop was deliberately built and released as a free option. Its complete project source remains private to prevent this existing work from being copied, repackaged and sold. This does not prevent anyone from independently building their own tool.
+
+This does not mean the APK must be treated as a mystery. The [Technical Transparency report](TRANSPARENCY.md) documents its permissions, Accessibility scope, local microphone processing, stored settings, application components, dependencies, signing certificate, release hash and independent verification steps.
+
+- [Read the Technical Transparency report](TRANSPARENCY.md)
+- [Read the Personal Use Terms](TERMS.md)
+
+Security and privacy inspection of the official APK is welcome. Reproduction, repackaging, redistribution and commercial use are not permitted.
+
 ## Why ChatLoop exists
 
 ChatLoop was built after OpenAI announced the retirement of Standard Voice. It is for people who prefer a continuous spoken conversation but still want to remain inside a normal ChatGPT thread, with its existing messages, context, tools and features.
